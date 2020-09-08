@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nefestor/nefestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefestor&hide=html&layout=compact&theme=dracula" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=nefestor&theme=radical&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nefestor&theme=radical&show_icons=true" /></td>
   </tr>  
 </table>
 </center>
