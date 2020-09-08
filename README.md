@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nefestor's github stats](https://github-readme-stats.vercel.app/api?username=nefestor)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefestor)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefestor&hide=html&layout=compact&theme=dracula" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=nefestor&theme=radical&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
