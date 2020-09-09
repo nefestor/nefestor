@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <center>
 <table>
   <tr>
-      <td><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefestor&hide=html&layout=compact&theme=dracula"/></td>
-      <td><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=nefestor&theme=radical&show_icons=true"/></td>
+      <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefestor&hide=html&layout=compact&theme=dracula"/></td>
+      <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=nefestor&theme=radical&show_icons=true"/></td>
   </tr>  
 </table>
 </center>
