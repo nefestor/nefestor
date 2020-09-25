@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nefestor.nefestor)
-
+<br />
 <br />
 
 Hi! I'm Tiago Coelho, a Software Engineer 🚀 from Brazil, currently, I'm a Software Tester on Tata Consultancy Services, working to Itaú Unibanco. Beside's programming, I enjoy eating food, traveling and play videogames.
