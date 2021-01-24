@@ -32,10 +32,8 @@ Hi! I'm Tiago Coelho, a Software Engineer 🚀 from Brazil, currently, I'm a Sof
 **Talking about Personal Stuffs:**
 
 - 📝[My Resume](https://resume.io/r/TtdoYf92O)
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 💬 Ask me about anything, I am happy to help;
-- 🌱 I’m currently learning Robot Framework and Postman;
-- ⚡ Fun fact: I have a gaming [Discord](https://discord.gg/bQ9gbT7) 🤯 !
+- 🌱 I’m currently learning Robot Framework and Rest Assured.
 
 
 **Languages and Tools:**  
