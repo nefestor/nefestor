@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi! I'm Tiago Coelho, a Software Engineer 🚀 from Brazil, currently, I'm a Software Tester on Tata Consultancy Services, working to Itaú Unibanco. Beside's programming, I enjoy eating food, traveling, play videogames and read a good book :)
+Hi! I'm Tiago Coelho, a Software Engineer 🚀 from Brazil. Currently, I'm a Software Tester on Tata Consultancy Services, working to Itaú Unibanco. Beside's programming, I enjoy eating food, traveling, play videogames and read a good book :)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
