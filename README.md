@@ -46,18 +46,6 @@ Hi! I'm Tiago Coelho, a Software Engineer 🚀 from Brazil. Currently, I'm a Sof
 
 
 
-
-
-
-📊 **This Week I Spent My Time On:**
-
-WIP
-
-🚧 **My Todoist Stats:**
-
-WIP
-
-
 <details>
 <summary>📈My GitHub Stats</summary>
 <center>
